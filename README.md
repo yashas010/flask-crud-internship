@@ -1,16 +1,11 @@
-# Flask CRUD Internship App - Deployment Ready
+# A basic CRUD demo 
 
 A modern CRUD web application built with Flask for internship demonstration.
 
 ## Features
 - ✅ Complete CRUD operations (Create, Read, Update, Delete)
 - ✅ Advanced form validation with real-time feedback
-- ✅ Country code phone number support
-- ✅ Photo upload with preview
-- ✅ Real-time search functionality
-- ✅ Professional UI with gradients and animations
-- ✅ Mobile responsive design
-- ✅ SQLite database
+
 
 ## Tech Stack
 - **Backend**: Flask, SQLAlchemy
@@ -44,7 +39,7 @@ This app is configured for easy deployment on Render.com:
 3. Deploy automatically
 
 ## Live Demo
-🔗 **[Live App URL]** - (Update this after deployment)
+🔗 **https://github.com/yashas010/flask-crud-internship** -
 
 ## Project Structure
 ```
@@ -75,4 +70,3 @@ This app is configured for easy deployment on Render.com:
 
 ---
 **Built for Internship Assignment**  
-Demonstrates full-stack development skills with modern web technologies.
